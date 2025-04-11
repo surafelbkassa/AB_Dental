@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/AB_Dental/static/css/main.aabb37ba.css",
+    "main.js": "/AB_Dental/static/js/main.fe2ecc59.js",
+    "index.html": "/AB_Dental/index.html",
+    "main.aabb37ba.css.map": "/AB_Dental/static/css/main.aabb37ba.css.map",
+    "main.fe2ecc59.js.map": "/AB_Dental/static/js/main.fe2ecc59.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.aabb37ba.css",
+    "static/js/main.fe2ecc59.js"
+  ]
+}
