@@ -5,6 +5,8 @@
   min-height: 80vh;
   display: flex;
   flex-direction: column;
+  position: relative;
+  z-index: 1000;
 }
 
 .banner-content {
@@ -15,6 +17,13 @@
   max-width: 1200px;
   margin: 0 auto;
   width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: var(--primary-color);
+  padding: 1rem 2rem;
+  z-index: 1001;
 }
 
 .logo {
@@ -60,6 +69,7 @@
   padding: 2rem;
   max-width: 800px;
   margin: 0 auto;
+  margin-top: 80px;
 }
 
 .hero-section h2 {

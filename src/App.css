@@ -32,12 +32,13 @@ body {
   max-width: 1200px;
   margin: 0 auto;
   width: 100%;
+  margin-top: 80px;
 }
 
 /* Section Styles */
 .home-section, .services, .about-section, .contact-section {
   padding: 4rem 0;
-  scroll-margin-top: 80px;
+  scroll-margin-top: 100px;
 }
 
 .welcome-message, .about-content, .contact-content {

@@ -36,13 +36,17 @@
   gap: 1rem;
 }
 
-.social-links a {
+.social-button {
+  background: none;
+  border: none;
   color: var(--white);
   font-size: 1.5rem;
+  cursor: pointer;
+  padding: 0.5rem;
   transition: color 0.3s ease;
 }
 
-.social-links a:hover {
+.social-button:hover {
   color: var(--primary-color);
 }
 
